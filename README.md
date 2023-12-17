@@ -48,6 +48,8 @@ Open with live Server
 
 •  Thymeleaf
 
+•  JSOUP
+
 
 ## Author 
 
