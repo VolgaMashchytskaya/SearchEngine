@@ -44,6 +44,11 @@ Open with live Server
 
 •  MySQL
 
+•  Lombok
+
+•  Thymeleaf
+
+
 ## Author 
 
 Volga Mashchitskaya
