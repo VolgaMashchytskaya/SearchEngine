@@ -9,7 +9,8 @@
  
 ## Description
 
-Course Web layout "Basic level" final work.  Layout of the website layout for the radio company
+Spring - приложение, работающее с локально установленной базой данных MySQL и индексирующее страницы сайтов, заданных в конфигурации. 
+Управление и получение результатов поисковых запросовосуществляется через веб-интерфейс с помощью API
 
 
 ## Getting Started
@@ -40,6 +41,8 @@ Open with live Server
 •  Spring Boot
 
 •  Maven
+
+•  MySQL
 
 ## Author 
 
